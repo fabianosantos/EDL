@@ -1,4 +1,4 @@
-e# A Linguagem de Programação Rust
+# A Linguagem de Programação Rust
 
 ### História
   Rust é uma linguagem de programação muilti-paradigma (general purpose programming language),  open source, desenvolvida pela Mozilla Research.
