@@ -28,3 +28,9 @@ de checkagens de segurança em tempo de compilação, evitando overhead em tempo
  $ ./main
  Hello, world!
  ```
+
+### Referências
+•	https://doc.rust-lang.org/book/README.html
+•	https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o)
+•	https://en.wikipedia.org/wiki/Rust_(programming_language)
+•	https://www.rust-lang.org/pt-BR/community.html
