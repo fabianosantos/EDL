@@ -8,10 +8,10 @@ e teve seu projeto refinado durante o processo de desenvolvimento do Servo web b
  em discussão aberta e consenso geral, sob a liderança de vários times.
   
   A linguagem tem em seu foco três pilares: <b>segurança, velocidade e concorrência</b>.
-  E mantém esses objetivos sem o uso de um garbage colector, fazendo dela uma ótima opção em uma série de casos de uso onde outras linguagens não são boas.
-  Como por exemplo, programas com requerimento específico de tempo e espaço, aplicações embarcadas, e em programações de baixo nível como device drivers e
-Sistemas Operacionais. Seu ganho em relação a outras linguagens atuais nesses quesitos é obtido principalmente por Rust investir pesado em realizar uma série
-de checkagens de segurança em tempo de compilação, evitando overread em tempo de execução e eliminando possíveis Data Races (concorrência).
+  E mantém esses objetivos sem o uso de um garbage collector, fazendo dela uma ótima opção em uma série de casos de uso onde outras linguagens não são boas.
+  Como por exemplo, programas com requerimento específico de tempo e espaço, aplicações embarcadas, e em programações de baixo nível como em device drivers e Sistemas Operacionais.
+  Seu ganho em relação a outras linguagens atuais nesses quesitos é obtido principalmente por Rust investir pesado em realizar uma série
+de checkagens de segurança em tempo de compilação, evitando overhead em tempo de execução e eliminando possíveis Data Races (concorrência).
 
  Hoje a linguagem Rust é a primeira colocada na pesquisa de <b>Linguagens de Programação mais amadas</b>, realizada pelo <b>Stack Overflow</b> Developer Survey, pelo
  segundo ano consecutivo (2016 e 2017).
