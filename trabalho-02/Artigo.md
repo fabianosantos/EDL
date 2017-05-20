@@ -15,7 +15,7 @@ de checkagens de segurança em tempo de compilação, evitando overhead em tempo
 
  Hoje a linguagem Rust é a primeira colocada na pesquisa de <b>Linguagens de Programação mais amadas</b>, pesquisa realizada pelo <b>Stack Overflow Developer Survey</b>, sendo vitoriosa pelo segundo ano consecutivo (2016 e 2017).
 
-###Exemplos
+### Exemplos
  Exemplo clássico do programa <b>Hello World!</b> escrito em Rust:
  ```
  fn main() {
