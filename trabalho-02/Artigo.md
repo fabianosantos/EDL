@@ -13,6 +13,4 @@ e teve seu projeto refinado durante o processo de desenvolvimento do Servo web b
   Seu ganho em relação a outras linguagens atuais nesses quesitos é obtido principalmente por Rust investir pesado em realizar uma série
 de checkagens de segurança em tempo de compilação, evitando overhead em tempo de execução e eliminando possíveis Data Races (concorrência).
 
- Hoje a linguagem Rust é a primeira colocada na pesquisa de <b>Linguagens de Programação mais amadas</b>, realizada pelo <b>Stack Overflow</b> Developer Survey, pelo
- segundo ano consecutivo (2016 e 2017).
- 
+ Hoje a linguagem Rust é a primeira colocada na pesquisa de <b>Linguagens de Programação mais amadas</b>, pesquisa realizada pelo <b>Stack Overflow Developer Survey</b>, sendo vitoriosa pelo segundo ano consecutivo (2016 e 2017).
