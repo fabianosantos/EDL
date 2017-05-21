@@ -34,3 +34,4 @@ de checkagens de segurança em tempo de compilação, evitando overhead em tempo
 •	https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o)<br/>
 •	https://en.wikipedia.org/wiki/Rust_(programming_language)<br/>
 •	https://www.rust-lang.org/pt-BR/community.html<br/>
+•	https://llogiq.github.io/2016/02/28/java-rust.html<br/>
